@@ -6,7 +6,7 @@ A step-by-step log of my journey learning Python Object-Oriented Programming con
 
 ---
 
-## 📈 Day 1 & 2: Featured Programs
+## 📈 Day 1: Featured Programs
 
 ### 1. 📱 'social_media.py'
 * **What it does:** Simulates an interactive social media post tracker. 
@@ -15,3 +15,8 @@ A step-by-step log of my journey learning Python Object-Oriented Programming con
 ### 2. 🛒 'digital_cart.py'
 * **What it does:** Simulates an e-commerce digital shopping cart checkout workflow.
 * **OOP Concept:** Uses an initialized constructor to map string keys to numerical values inside a dictionary (`self.items = {}`). It utilizes built-in math aggregation to loop through stored attributes and generate an itemized invoice calculation upon checkout.
+
+## 📈 Day 2: Encapsulation
+
+### 1. secure_atm.py
+just created a structure of repo of encapsulation 

@@ -24,3 +24,5 @@ A simulated secure banking application. It highlights data privacy by locking do
 
 -> Feat: Completed SecureATM with PIN validation, secure deposits, and withdrawal logic!
 
+Day 3: Initiated SmartFlight class structure with class variables and private attributes
+

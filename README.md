@@ -24,5 +24,10 @@ A simulated secure banking application. It highlights data privacy by locking do
 
 -> Feat: Completed SecureATM with PIN validation, secure deposits, and withdrawal logic!
 
-Day 3: Initiated SmartFlight class structure with class variables and private attributes
+## 📈 Day 3: Flight Booking Encapsulation
+
+Advanced concepts mastered: **Private Variables (`__`)** and **Class Variables**.
+### 1. smart_flight.py
+An airline ticket booking simulation. It sets up private attributes (`__passport_no` and `__ticket_price`) to secure sensitive travel metrics from unauthorized direct access.
+
 

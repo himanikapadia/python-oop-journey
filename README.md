@@ -6,7 +6,7 @@ A step-by-step log of my journey learning Python Object-Oriented Programming con
 
 ---
 
-## 📈 Day 1: Featured Programs
+## 📈 Concept 1: Featured Programs
 
 ## 1. 📱 'social_media.py'
 **What it does:** Simulates an interactive social media post tracker. 
@@ -16,20 +16,38 @@ A step-by-step log of my journey learning Python Object-Oriented Programming con
 **What it does:** Simulates an e-commerce digital shopping cart checkout workflow.
 **OOP Concept:** Uses an initialized constructor to map string keys to numerical values inside a dictionary (`self.items = {}`). It utilizes built-in math aggregation to loop through stored attributes and generate an itemized invoice calculation upon checkout.
 
-## 📈 Day 2: Encapsulation
+## 📈 Concept 2: Encapsulation
 
 Advanced concepts mastered: **Private Variables (`__`)**, **Class Variables**, and **Data Validation**.
-### 1. secure_atm.py
+## 1. secure_atm.py
 A simulated secure banking application. It highlights data privacy by locking down crucial information (`__pin` and `__balance`) from external tampering. It implements structural logic checks to securely validate user credentials before allowing account inquiries, deposits, or withdrawals.
 
 Feat: Completed SecureATM with PIN validation, secure deposits, and withdrawal logic!
 
-## 📈 Day 3: Flight Booking Encapsulation
-
 Advanced concepts mastered: **Private Variables (`__`)** and **Class Variables**.
-### 1. smart_flight.py
+## 2. smart_flight.py
 An airline ticket booking simulation. It sets up private attributes (`__passport_no` and `__ticket_price`) to secure sensitive travel metrics from unauthorized direct access.
 
 Feat: Completed SmartFlight with passport validation and business class upgrade logic!
+
+## 📈 Concept 3: Inheritance
+
+Advanced concepts mastered: **Base Class (Parent)**, **Derived Class (Child)**, `super().__init__()`, **Method Overriding**, **Multi-level Hierarchy**, and **Hierarchical Branching**.
+
+## 1. 🚗 'vehicle_showroom.py'
+**What it does:** Simulates a digital product catalog for a premium vehicle dealership tracking different stock configurations.
+**OOP Concept:** Illustrates basic Parent-to-Child inheritance mapping. Child models reuse baseline attributes while implementing specialized features like electric vehicle battery metrics or superbike velocity limits via method overriding.
+
+## 2. 🏢 'employee_hierarchy.py'
+**What it does:** Simulates an enterprise corporate organizational payroll system.
+**OOP Concept:** Demonstrates **Multi-level Inheritance** (`Employee` ➡️ `Manager` ➡️ `Executive`). It shows how data configurations and calculation engines scale down a vertical chain while maintaining formatted output alignment columns using space formatting.
+
+## 📱 3. 'smart_home_device.py'
+**What it does:** Simulates an automated smart home central dashboard managing real-time IoT utility operations.
+**OOP Concept:** Demonstrates **Hierarchical Inheritance** where multiple entirely distinct specialized appliances (`SmartThermostat` and `SmartSecurityCamera`) branch off a single parent core. It integrates standard `datetime` modules to track state mutations automatically.
+
+-> Feat: Completed all Day 3 inheritance tasks with custom overriding and multi-tier classes!
+
+
 
 

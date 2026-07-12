@@ -12,6 +12,7 @@ A step-by-step log of my journey learning **Python Object-Oriented Programming (
 03-inheritance/
 04-polymorphism/
 05-abstraction/
+06-exception-handling/
 ```
 
 ---
@@ -229,6 +230,40 @@ A step-by-step log of my journey learning **Python Object-Oriented Programming (
 
 ---
 
+⚠️ Concept 6: Exception Handling
+Concepts Learned
+try
+except
+else
+finally
+raise
+Custom Exceptions
+Built-in Exceptions
+File Handling with Exception Handling
+📂 file_guard.py
+
+Description: Simulates a secure file reader that safely opens and validates text files while handling common runtime errors.
+
+Concepts Demonstrated:
+
+try, except, else, and finally
+File handling
+Built-in exceptions (FileNotFoundError, PermissionError)
+Custom exception (EmptyFileError)
+Raising exceptions using raise
+🔐 login_validator.py
+
+Description: Simulates a login authentication system that validates user credentials using custom exceptions.
+
+Concepts Demonstrated:
+
+Custom exceptions
+Manual exception raising with raise
+Username and password validation
+Runtime exception handling
+try, except, else, and finally
+
+
 # 🚀 Skills Covered
 
 * ✅ Classes & Objects
@@ -246,6 +281,10 @@ A step-by-step log of my journey learning **Python Object-Oriented Programming (
 * ✅ Abstract Classes
 * ✅ Abstract Methods
 * ✅ ABC Module
+* ✅ Exception Handling
+* ✅ Built-in Exceptions
+* ✅ Custom Exceptions
+* ✅ File Handling
 
 ---
 

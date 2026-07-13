@@ -284,14 +284,12 @@ try, except, else, and finally
 * ✅ Exception Handling
 * ✅ Built-in Exceptions
 * ✅ Custom Exceptions
-* ✅ File Handling
 
 ---
 
 # 📚 Upcoming Topics
 
 * 🔄 Composition
-* ⚡ Magic (Dunder) Methods
 * 📝 Exception Handling
 * 📂 File Handling
 * 🎨 SOLID Principles

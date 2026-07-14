@@ -284,13 +284,12 @@ try, except, else, and finally
 * ✅ Exception Handling
 * ✅ Built-in Exceptions
 * ✅ Custom Exceptions
+* ✅ Composition
 
 ---
 
 # 📚 Upcoming Topics
 
-* 🔄 Composition
-* 📝 Exception Handling
 * 📂 File Handling
 * 🎨 SOLID Principles
 * 🏗️ Design Patterns

@@ -26,4 +26,6 @@ class laptop:
 
 #Drivers Code
 lap=laptop()
+
+#Accessing Composition classes using Laptop class object
 lap.start()

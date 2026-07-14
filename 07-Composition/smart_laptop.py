@@ -1,5 +1,5 @@
 class CPU:
-    #Composition method of CPU class
+    #Composition method
     def process(self):
         print("CPU is processing Data...")
 

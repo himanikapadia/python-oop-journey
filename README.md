@@ -13,6 +13,7 @@ A step-by-step log of my journey learning **Python Object-Oriented Programming (
 04-polymorphism/
 05-abstraction/
 06-exception-handling/
+07-composition/
 ```
 
 ---
@@ -262,6 +263,36 @@ Manual exception raising with raise
 Username and password validation
 Runtime exception handling
 try, except, else, and finally
+
+🧩 Concept 7: Composition
+Concepts Learned
+Composition (Has-A Relationship)
+Object Collaboration
+Object Aggregation
+Reusability through Composition
+Creating Objects Inside Another Class
+Managing Collections of Objects
+💻 smart_laptop.py
+
+Description: Simulates a laptop by combining multiple hardware components such as a CPU, RAM, and Battery to perform the startup process.
+
+Concepts Demonstrated:
+
+Composition (Has-A Relationship)
+Object Collaboration
+Creating and using objects inside another class
+Interaction between multiple component objects
+🎵 music_playlist.py
+
+Description: Simulates a music playlist that stores and displays multiple songs using object composition.
+
+Concepts Demonstrated:
+
+Composition (Has-A Relationship)
+Managing collections of objects
+Object collaboration
+Storing Song objects inside a Playlist
+Calling methods of composed objects
 
 
 # 🚀 Skills Covered
